@@ -8,8 +8,8 @@ Upon activation, the server starts, and Mongoose models sync with the MongoDB da
 Insomnia Core's API GET routes neatly present user and thought data in JSON format. The API's POST, PUT, and DELETE routes effectively handle user and thought operations. Additionally, POST and DELETE routes manage reactions to thoughts and friend list updates.
 
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
+  - [Installation](#installation)
+  - [Usage](#usage)
   - [License](#license)
   - [Credits](#credits)
   - [Tests](#tests)
