@@ -38,6 +38,7 @@ npm start
   [ChatGPT](https://chat.openai.com/c/278de262-3dcf-4162-a009-1e6f5d8d8acd)
 
   [GitHub Challenge Example](https://github.com/njthanhtrang/18.-NoSQL-Challenge-Social-Network-API)
+  [GitHub Challenge Example](https://github.com/Grunt395/Module-18-Challenge)
   
   [Andrew Hoang's Module 18 Challenge Video](https://zoom.us/rec/play/u1ASslllh6Nd1g1aZtE148HTyL2xwggpGZQGcjV0Tkodqaj3xgNC2RYrEuJ_Ho8b-uR7hOR6WbCZkmhQ.CNKoBLqMYRrY2hIE?continueMode=true)
 
